@@ -1,0 +1,15 @@
+{
+    "message": "I will win Java"
+}
+{
+    "message": "I will win Java"
+}
+{
+    "message": "I will win Java"
+}#{
+    "message": "I will win Java"
+}#{
+    "message": "I will win Java"
+}#{
+    "message": "I will win Java"
+}#
